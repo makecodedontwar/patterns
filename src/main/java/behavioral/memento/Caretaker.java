@@ -1,4 +1,4 @@
-package memento;
+package behavioral.memento;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package mediator;
+package behavioral.mediator;
 
 public interface Aircraft {
     void setControl(AirportControl control);

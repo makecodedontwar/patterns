@@ -1,4 +1,4 @@
-package memento;
+package behavioral.memento;
 
 public class Memento {
     private final String state;

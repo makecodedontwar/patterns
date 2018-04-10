@@ -1,4 +1,4 @@
-package mediator;
+package behavioral.mediator;
 
 import java.util.HashSet;
 import java.util.Set;
